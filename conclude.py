@@ -1,7 +1,7 @@
-from senti import Senti
-from collections import Counter
 import os
 import pandas as pd
+from senti import Senti
+from collections import Counter
 
 
 def favor_comment_cur(count: Counter):
